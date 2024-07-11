@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|g:\\inaresh asp.net mvc\\it4solutioncodefirst\\it4solutioncodefirst\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|solutionrelative:it4solutioncodefirst\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|g:\\inaresh asp.net mvc\\it4solutioncodefirst\\it4solutioncodefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|solutionrelative:it4solutioncodefirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|g:\\inaresh asp.net mvc\\it4solutioncodefirst\\it4solutioncodefirst\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|solutionrelative:it4solutioncodefirst\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|g:\\inaresh asp.net mvc\\it4solutioncodefirst\\it4solutioncodefirst\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|solutionrelative:it4solutioncodefirst\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|g:\\inaresh asp.net mvc\\it4solutioncodefirst\\it4solutioncodefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|solutionrelative:it4solutioncodefirst\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|g:\\inaresh asp.net mvc\\it4solutioncodefirst\\it4solutioncodefirst\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|solutionrelative:it4solutioncodefirst\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|g:\\inaresh asp.net mvc\\it4solutioncodefirst\\it4solutioncodefirst\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|solutionrelative:it4solutioncodefirst\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|g:\\inaresh asp.net mvc\\it4solutioncodefirst\\it4solutioncodefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|solutionrelative:it4solutioncodefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|g:\\inaresh asp.net mvc\\it4solutioncodefirst\\it4solutioncodefirst\\migrations\\202407110938142_updatingmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|solutionrelative:it4solutioncodefirst\\migrations\\202407110938142_updatingmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|g:\\inaresh asp.net mvc\\it4solutioncodefirst\\it4solutioncodefirst\\models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|solutionrelative:it4solutioncodefirst\\models\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|g:\\inaresh asp.net mvc\\it4solutioncodefirst\\it4solutioncodefirst\\migrations\\202407081540019_addingsupplierentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E625F782-76E7-40AD-A8A6-53CE7F57D911}|It4SolutionCodeFirst\\It4SolutionCodeFirst.csproj|solutionrelative:it4solutioncodefirst\\migrations\\202407081540019_addingsupplierentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "It4SolutionCodeFirst\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "It4SolutionCodeFirst\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:13:52.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "It4SolutionCodeFirst\\Controllers\\CategoryController.cs",
+              "ToolTip": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "It4SolutionCodeFirst\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA2wFEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:12:00.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "It4SolutionCodeFirst\\Controllers\\ProductController.cs",
+              "ToolTip": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "It4SolutionCodeFirst\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:09:12.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "It4SolutionCodeFirst\\Models\\Product.cs",
+              "ToolTip": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Models\\Product.cs",
+              "RelativeToolTip": "It4SolutionCodeFirst\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T10:09:09.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "It4SolutionCodeFirst\\Controllers\\AccountController.cs",
+              "ToolTip": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "It4SolutionCodeFirst\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA/wDAAAACDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:36:43.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "It4SolutionCodeFirst\\Views\\Category\\Index.cshtml",
+              "ToolTip": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "It4SolutionCodeFirst\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T09:47:39.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "It4SolutionCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "It4SolutionCodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T09:41:39.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "202407110938142_updatingMigration.cs",
+              "DocumentMoniker": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Migrations\\202407110938142_updatingMigration.cs",
+              "RelativeDocumentMoniker": "It4SolutionCodeFirst\\Migrations\\202407110938142_updatingMigration.cs",
+              "ToolTip": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Migrations\\202407110938142_updatingMigration.cs",
+              "RelativeToolTip": "It4SolutionCodeFirst\\Migrations\\202407110938142_updatingMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T09:38:20.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "It4SolutionCodeFirst\\Views\\Account\\Login.cshtml",
+              "ToolTip": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "It4SolutionCodeFirst\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T09:35:52.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "202407081540019_AddingSupplierEntity.cs",
+              "DocumentMoniker": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Migrations\\202407081540019_AddingSupplierEntity.cs",
+              "RelativeDocumentMoniker": "It4SolutionCodeFirst\\Migrations\\202407081540019_AddingSupplierEntity.cs",
+              "ToolTip": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Migrations\\202407081540019_AddingSupplierEntity.cs",
+              "RelativeToolTip": "It4SolutionCodeFirst\\Migrations\\202407081540019_AddingSupplierEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:40:10.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Models\\StoreContext.cs",
+              "RelativeDocumentMoniker": "It4SolutionCodeFirst\\Models\\StoreContext.cs",
+              "ToolTip": "G:\\INaresh ASP.NET MVC\\It4SolutionCodeFirst\\It4SolutionCodeFirst\\Models\\StoreContext.cs",
+              "RelativeToolTip": "It4SolutionCodeFirst\\Models\\StoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T15:38:21.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
